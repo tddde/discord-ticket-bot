@@ -1,0 +1,18 @@
+{
+    "token": "",
+    "panel_channel_id": "",
+    "staff_role_id": "",
+    "role_to_ping_id": "",
+    "transcript_channel_id": "",
+    "categories": {
+        "support": "",
+        "bug": "",
+        "feature": "",
+        "other": ""
+  },
+
+  "footer_text": "",
+  "image_url": "",
+  "thumb_url": ""
+}  
+  
